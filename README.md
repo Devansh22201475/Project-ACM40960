@@ -51,6 +51,9 @@ Machine learning has become increasingly valuable in sales forecasting due to it
 
 **item_category_name** - name of item category
 
+## Exploratory Data Analysis
+![plot1](https://github.com/Devansh22201475/Project-ACM40960/assets/134631225/e6deca46-ede5-4422-a7d3-96f363163314)
+
 ## Installation
 
 Necessary Installation:
